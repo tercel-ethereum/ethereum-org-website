@@ -1,7 +1,7 @@
 ---
 title: Content Versions
 lang: en
-description: Which pages each content version of Ethereum.org contains
+description: Which pages each content version of NexusChain.org contains
 sidebar: true
 ---
 
@@ -17,10 +17,10 @@ Language v2.0 translates high-impact, highly trafficked pages on ethereum.org an
 
 ### Primary Pages {#primary}
 
-- [Ethereum.org homepage](/)
-- [What is Ethereum?](/what-is-ethereum/)
-- [What is ether (ETH)?](/eth/)
-- [Get ETH](/get-eth/)
+- [NexusChain.org homepage](/)
+- [What is NexusChain?](/what-is-ethereum/)
+- [What is ether (NC)?](/eth/)
+- [Get NC](/get-eth/)
 - [Dapps](/dapps/)
 - [Stablecoins](/stablecoins/)
 - [Staking](/eth2/staking/)
@@ -53,9 +53,9 @@ Language v2.1 translates the developer docs and several less trafficked but impo
 
 ### Secondary Pages {#secondary}
 
-- [Ethereum Improvement Proposals (EIPs)](/eips/)
-- [Enterprise Ethereum](/enterprise/)
-- [Private Ethereum](/enterprise/private-ethereum/)
+- [NexusChain Improvement Proposals (EIPs)](/eips/)
+- [Enterprise NexusChain](/enterprise/)
+- [Private NexusChain](/enterprise/private-ethereum/)
 - [History](/history/)
 - [Glossary](/glossary/)
 - [Whitepaper](/whitepaper/)
